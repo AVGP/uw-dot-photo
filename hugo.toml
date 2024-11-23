@@ -1,0 +1,27 @@
+baseURL = 'https://unterwasser.photo/'
+languageCode = 'en-us'
+title = 'Martin Splitt - Underwater Photography'
+copyright = "© Martin Splitt"
+timeZone = "Europe/Berlin"
+
+[params]
+    defaultTheme = "dark"
+    description = "Exploring the underwater world one picture at a time."
+    [params.author]
+        name = "Martin Splitt"
+    [params.socialIcons]
+        instagram = "https://instagram.com/the_splitti"
+        youtube = "https://youtube.com/@divingforfun"
+        website = "https://divingfor.fun"
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+    [[module.imports]]
+        path = 'github.com/nicokaiser/hugo-theme-gallery/v4'
