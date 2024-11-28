@@ -7,7 +7,7 @@ menu:
         weight: 90
 ---
 
-## Why I dive
+# Why I dive
 
 From early on, water kept drawing me in. Be it a lake, river or the ocean - I felt at home, whenever I was near, on, in or under the water.
 It covers a part of our world and I always wanted to explore what lies beneath the surface.
@@ -22,16 +22,16 @@ That's why I didn't want to limit my diving to faraway places on vacation, but w
 
 <img src="/images/martin-splitt-underwater-selfie.jpg" width="50%" alt="Martin Splitt underwater selfie with the Divesoft Liberty CCR in Attersee">
 
-## Why I became an underwater photographer
+# Why I became an underwater photographer
 
 Whenever I tell people I dive in the cold, dark waters in Switzerland, Europe and elsewhere, most people can't believe it.
 They think "there is nothing to see" or "it's murky and grey". It could not be farther from the truth - even in Switzerland we have colors and wildlife, if not as vibrant as a tropical reef, but surely worth exploring.
 
 I wanted to share these moments with others and what better way then to tell stories from the deep in pictures?
 
-## My gear
+# My gear
 
-### My photo gear
+## My photo gear
 
 For the more challenging conditions, I'm using a Sony camera setup:
 - Sony Alpha 6600, 
@@ -44,20 +44,20 @@ For dives requiring lightweight setups, I use a variety of actioncams:
 
 I usually use Wurkkos DL07 lights for the actioncams.
 
-### My dive gear
+## My dive gear
 
 I usually dive sidemount or CCR, but often travel with backmount gear.
 
-#### Backmount
+### Backmount
 
 - XDeep Zen
 - Apeks MTX-RC
 
-#### Sidemount
+### Sidemount
 - XDeep Stealth 2.0 Tec
 - Apeks XTX100 x2
 
-#### CCR
+### CCR
 - Divesoft Liberty
 - Salamandre o2 mCCR
 
