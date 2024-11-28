@@ -1,5 +1,7 @@
 ---
 title: "About me"
+layout: page
+rss_ignore: true
 menu:
     main:
         weight: 90
@@ -44,20 +46,20 @@ I usually use Wurkkos DL07 lights for the actioncams.
 
 I usually dive sidemount or CCR, but often travel with backmount gear.
 
-## Backmount
+#### Backmount
 
 - XDeep Zen
 - Apeks MTX-RC
 
-## Sidemount
+#### Sidemount
 - XDeep Stealth 2.0 Tec
 - Apeks XTX100 x2
 
-## CCR
+#### CCR
 - Divesoft Liberty
 - Salamandre o2 mCCR
 
-## Shared gear
+#### Shared gear
 A bunch of my gear is independent of configuration, like
 
 - Apeks RK3 fins
