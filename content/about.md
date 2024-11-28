@@ -20,6 +20,8 @@ Sure, for many it's the beautiful colors of coral reefs, the schools of pretty f
 
 That's why I didn't want to limit my diving to faraway places on vacation, but wanted to explore the lakes, rivers and underwater places in Switzerland, Europe and the world. I try to get into the water at least once a week and I enjoy sharing this passion with others as a dive guide and instructor.
 
+<img src="/images/martin-splitt-underwater-selfie.jpg" width="50%" alt="Martin Splitt underwater selfie with the Divesoft Liberty CCR in Attersee">
+
 ## Why I became an underwater photographer
 
 Whenever I tell people I dive in the cold, dark waters in Switzerland, Europe and elsewhere, most people can't believe it.
