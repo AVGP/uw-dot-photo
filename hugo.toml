@@ -26,3 +26,6 @@ timeout = "120"
 [module]
     [[module.imports]]
         path = 'github.com/nicokaiser/hugo-theme-gallery/v4'
+
+[markup.goldmark.renderer]
+  unsafe = "true"

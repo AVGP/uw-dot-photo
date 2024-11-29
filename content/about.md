@@ -20,7 +20,10 @@ Sure, for many it's the beautiful colors of coral reefs, the schools of pretty f
 
 That's why I didn't want to limit my diving to faraway places on vacation, but wanted to explore the lakes, rivers and underwater places in Switzerland, Europe and the world. I try to get into the water at least once a week and I enjoy sharing this passion with others as a dive guide and instructor.
 
-<img src="/images/martin-splitt-underwater-selfie.jpg" width="50%" alt="Martin Splitt underwater selfie with the Divesoft Liberty CCR in Attersee">
+<figure style="text-align: center">
+    <img src="/images/about/martin-splitt-underwater-selfie.jpg" width="80%" style="display:inline-block" alt="Martin Splitt underwater selfie with the Divesoft Liberty CCR in Attersee">
+    <figcaption>Selfie of Martin Splitt diving the Liberty CCR in Attersee, Austria</figcaption>
+</figure>
 
 # Why I became an underwater photographer
 
@@ -31,10 +34,12 @@ I wanted to share these moments with others and what better way then to tell sto
 
 # My gear
 
+For those interested, here is what I use for my photography as well as my diving.
+
 ## My photo gear
 
 For the more challenging conditions, I'm using a Sony camera setup:
-- Sony Alpha 6600, 
+- Sony Alpha 6600
 - X-Adventurer M8000 video lights
 
 For dives requiring lightweight setups, I use a variety of actioncams:
@@ -53,6 +58,11 @@ I usually dive sidemount or CCR, but often travel with backmount gear.
 - XDeep Zen
 - Apeks MTX-RC
 
+<figure style="text-align: center">
+    <img src="/images/about/xdeep-zen-apeks-mtx-rc-in-antarctica.jpg" width="80%" style="display:inline-block" alt="XDeep Zen assembled with Apeks MTX-RC regulators, covered with ice on deck of the MV Ortelius on the Antarctic Ocean">
+    <figcaption>My XDeep Zen with Apeks MTX-RC aboard the MV Ortelius in the Antarctic ocean</figcaption>
+</figure>
+
 ### Sidemount
 - XDeep Stealth 2.0 Tec
 - Apeks XTX100 x2
@@ -61,7 +71,7 @@ I usually dive sidemount or CCR, but often travel with backmount gear.
 - Divesoft Liberty
 - Salamandre o2 mCCR
 
-#### Shared gear
+### Shared gear
 A bunch of my gear is independent of configuration, like
 
 - Apeks RK3 fins
