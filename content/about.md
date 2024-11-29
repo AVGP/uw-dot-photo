@@ -71,6 +71,11 @@ I usually dive sidemount or CCR, but often travel with backmount gear.
 - Divesoft Liberty
 - Salamandre o2 mCCR
 
+<figure style="text-align: center">
+    <img src="/images/about/salamandre-oxygen-rebreather.jpg" width="80%" style="display:inline-block" alt="Salamandre Oxygen Rebreather after a dive">
+    <figcaption>My Salamandre Oxygen CCR after a dive</figcaption>
+</figure>
+
 ### Shared gear
 A bunch of my gear is independent of configuration, like
 
