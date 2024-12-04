@@ -8,6 +8,7 @@ timeout = "120"
 [params]
     defaultTheme = "dark"
     description = "Exploring the underwater world one picture at a time."
+    watermark = "images/logo.png"
     [params.author]
         name = "Martin Splitt"
     [params.socialIcons]
@@ -25,7 +26,7 @@ timeout = "120"
 
 [module]
     [[module.imports]]
-        path = 'github.com/nicokaiser/hugo-theme-gallery/v4'
+        path = 'github.com/avgp/hugo-theme-gallery'
 
 [markup.goldmark.renderer]
   unsafe = "true"

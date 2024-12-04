@@ -2,4 +2,4 @@ module github.com/avgp/uw-dot-photo
 
 go 1.19
 
-require github.com/nicokaiser/hugo-theme-gallery/v4 v4.5.1 // indirect
+require github.com/avgp/hugo-theme-gallery v0.0.0-20241203141448-2f8b87ca5a0c // indirect
