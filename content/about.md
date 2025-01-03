@@ -87,3 +87,8 @@ A bunch of my gear is independent of configuration, like
 - Cressi Big Eyes mask
 - TillyTec Maxi Uni lamp with various LED modules
 - Shearwater Perdix 2 & Perdix AI computers
+
+## Beyond photo and video
+
+Besides photography and cinematography I also share the passion of diving with others by being a PADI Master Scuba Diver Trainer in Zürich.
+Together with Jan Kirchhof, I'm hosting the [Dekozeit Podcast](https://open.spotify.com/show/087Wy8vimWknyqtSkXPOyI) (in German).
