@@ -7,6 +7,41 @@ menu:
         weight: 90
 ---
 
+<figure style="text-align: center">
+    <img src="/images/about/martin-splitt-underwater-photographer.jpg" width="80%" style="display:inline-block" alt="Martin Splitt, underwater photographer, in front of one of his photographs in an exhibition in Zurich">
+    <figcaption>Martin Splitt, underwater photographer, in front of one of his photographs in an exhibition in Zurich</figcaption>
+</figure>
+
+# Who am I?
+
+I'm Martin Splitt, underwater photographer from Zurich, Switzerland.
+
+# Exhibitions
+
+## Stage Space, Zurich, 2025
+
+<figure style="text-align: center">
+    <img src="/images/exhibitions/2025/martin-splitt-water-element-stagespace-zurich-2025.jpg" width="40%" style="display:inline" alt="Martin Splitt's artwork in the Water Element exhibition at Stage Space Zurich, 2025">
+    <figcaption>Martin Splitt's artwork in the Water Element exhibition at Stage Space Zurich, 2025</figcaption>
+</figure>
+
+## Artbox Expo, New York, 2025
+
+<figure style="text-align: center">
+    <img src="/images/exhibitions/2025/martin-splitt-photo-at-artbox-expo-nyc-2025.jpg" width="40%" style="display:inline" alt="Martin Splitt's artwork in the Artbox Expo New York, 2025">
+    <figcaption>"Diver in a cave" exhibited at Artbox Expo New York 2025</figcaption>
+</figure>
+<figure style="text-align: center">
+    <img src="/images/exhibitions/2025/martin-splitt-at-artbox-expo-nyc-2025.jpg" width="40%" style="display:inline" alt="Certificate of Martin Splitt's participation in the Artbox Expo New York, 2025">
+    <figcaption>Certificate of participation in the Artbox Expo New York, 2025</figcaption>
+</figure>
+
+## Unterwasser Festival 2024, Zurich
+<figure style="text-align: center">
+    <img src="/images/exhibitions/2024/martin-splitt-at-unterwasserfestival-zurich-2024.jpg" width="40%" style="display:inline" alt="Martin Splitt in front of his photos at the Unterwasser Festival exhibition 2024">
+    <figcaption>Martin Splitt in front of his photos at the Unterwasser Festival exhibition 2024</figcaption>
+</figure>
+
 # Why I dive
 
 From early on, water kept drawing me in. Be it a lake, river or the ocean - I felt at home, whenever I was near, on, in or under the water.
@@ -39,6 +74,7 @@ For those interested, here is what I use for my photography as well as my diving
 ## My photo gear
 
 For the more challenging conditions, I'm using a Sony camera setup:
+- Sony Apha 7S III
 - Sony Alpha 6600
 - X-Adventurer M8000 video lights
 
@@ -47,7 +83,7 @@ For dives requiring lightweight setups, I use a variety of actioncams:
 - Insta360 X4 for 360 videos
 - DJI Osmo 5 Pro for low-light situations
 
-I usually use Wurkkos DL07 lights for the actioncams.
+I usually use Wurkkos DL07 lights for the action cams.
 
 ## My dive gear
 
@@ -65,7 +101,7 @@ I usually dive sidemount or CCR, but often travel with backmount gear.
 
 ### Sidemount
 - XDeep Stealth 2.0 Tec
-- Apeks XTX100 x2
+- 2x Apeks XTX50
 
 ### CCR
 - Divesoft Liberty
